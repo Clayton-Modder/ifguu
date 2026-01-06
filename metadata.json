@@ -1,0 +1,7 @@
+{
+  "name": "Sentinel Log System",
+  "description": "A modern, secure administrative dashboard for managing server logs, punishments (bans, mutes, warns), and administrator performance with advanced analytics and responsive design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
